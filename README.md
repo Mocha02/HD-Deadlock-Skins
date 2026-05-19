@@ -1,5 +1,7 @@
 # HD-Deadlock-Audio-Skins
 
+# CURRENTLY W.I.P. No files are present.
+
 A collection of audio only skins of characters from Valve's new up and coming game Deadlock. 
 
 Copyright infringement is not intended and this is simply made as a novelty cosmetic mod for a mod for Doom II called Hideous Destructor.
