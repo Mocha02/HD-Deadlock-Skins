@@ -1,0 +1,63 @@
+// Seven
+
+SevGrunt1		"Sounds/Seven/Pain/SevGrunt1.mp3"
+SevGrunt2		"Sounds/Seven/Pain/SevGrunt2.mp3"
+SevGrunt3		"Sounds/Seven/Pain/SevGrunt3.mp3"
+SevGrunt4		"Sounds/Seven/Pain/SevGrunt4.mp3"
+SevGrunt5		"Sounds/Seven/Pain/SevGrunt5.mp3"
+SevPain1		"Sounds/Seven/Pain/SevPain1.mp3"
+SevPain2		"Sounds/Seven/Pain/SevPain2.mp3"
+SevPain3		"Sounds/Seven/Pain/SevPain3.mp3"
+SevPain4		"Sounds/Seven/Pain/SevPain4.mp3"
+SevPain5		"Sounds/Seven/Pain/SevPain5.mp3"
+SevPain6		"Sounds/Seven/Pain/SevPain6.mp3"
+SevPain7		"Sounds/Seven/Pain/SevPain7.mp3"
+SevPain8		"Sounds/Seven/Pain/SevPain8.mp3"
+SevPain9		"Sounds/Seven/Pain/SevPain9.mp3"
+SevPain10		"Sounds/Seven/Pain/SevPain10.mp3"
+SevPain11		"Sounds/Seven/Pain/SevPain11.mp3"
+SevPain12		"Sounds/Seven/Pain/SevPain12.mp3"
+SevXDeath		"Sounds/Seven/Death/SevXDeath.mp3"
+SevDeath1		"Sounds/Seven/Death/SevDeath1.mp3"
+SevDeath2		"Sounds/Seven/Death/SevDeath2.mp3"
+SevDeath3		"Sounds/Seven/Death/SevDeath3.mp3"
+SevDeath4		"Sounds/Seven/Death/SevDeath4.mp3"
+SevDeath5		"Sounds/Seven/Death/SevDeath5.mp3"
+SevDeath6		"Sounds/Seven/Death/SevDeath6.mp3"
+SevDeath7		"Sounds/Seven/Death/SevDeath7.mp3"
+SevTaunt1		"Sounds/Seven/Taunts/SevTaunt1.mp3"
+SevTaunt2		"Sounds/Seven/Taunts/SevTaunt2.mp3"
+SevTaunt3		"Sounds/Seven/Taunts/SevTaunt3.mp3"
+SevTaunt4		"Sounds/Seven/Taunts/SevTaunt4.mp3"
+SevTaunt5		"Sounds/Seven/Taunts/SevTaunt5.mp3"
+SevTaunt6		"Sounds/Seven/Taunts/SevTaunt6.mp3"
+SevTaunt7		"Sounds/Seven/Taunts/SevTaunt7.mp3"
+SevTaunt8		"Sounds/Seven/Taunts/SevTaunt8.mp3"
+SevTaunt9		"Sounds/Seven/Taunts/SevTaunt9.mp3"
+SevTaunt10		"Sounds/Seven/Taunts/SevTaunt10.mp3"
+SevTaunt11		"Sounds/Seven/Taunts/SevTaunt11.mp3"
+SevTaunt12		"Sounds/Seven/Taunts/SevTaunt12.mp3"
+SevTaunt13		"Sounds/Seven/Taunts/SevTaunt13.mp3"
+SevTaunt14		"Sounds/Seven/Taunts/SevTaunt14.mp3"
+SevTaunt15		"Sounds/Seven/Taunts/SevTaunt15.mp3"
+SevTaunt16		"Sounds/Seven/Taunts/SevTaunt16.mp3"
+SevTaunt17		"Sounds/Seven/Taunts/SevTaunt17.mp3"
+SevTaunt18		"Sounds/Seven/Taunts/SevTaunt18.mp3"
+SevTaunt19		"Sounds/Seven/Taunts/SevTaunt19.mp3"
+SevTaunt20		"Sounds/Seven/Taunts/SevTaunt20.mp3"
+SevTaunt21		"Sounds/Seven/Taunts/SevTaunt21.mp3"
+SevTaunt22		"Sounds/Seven/Taunts/SevTaunt22.mp3"
+SevTaunt23		"Sounds/Seven/Taunts/SevTaunt23.mp3"
+SevTaunt24		"Sounds/Seven/Taunts/SevTaunt24.mp3"
+SevTaunt25		"Sounds/Seven/Taunts/SevTaunt25.mp3"
+SevTaunt26		"Sounds/Seven/Taunts/SevTaunt26.mp3"
+SevTaunt27		"Sounds/Seven/Taunts/SevTaunt27.mp3"
+
+
+
+
+
+$random SevGrunts { SevGrunt1 SevGrunt2 SevGrunt3 SevGrunt4 SevGrunt1 SevGrunt5 }
+$random SevPains { SevPain1 SevPain2 SevPain3 SevPain4 SevPain5 SevPain6 SevPain7 SevPain8 SevPain9 SevPain10 SevPain11 SevPain12 }
+$random SevDeaths {SevDeath1 SevDeath2 SevDeath3 SevDeath4 SevDeath5 SevDeath6 SevDeath7 }
+$random SevTaunts { SevTaunt1 SevTaunt2 SevTaunt3 SevTaunt4 SevTaunt5 SevTaunt6 SevTaunt7 SevTaunt8 SevTaunt9 SevTaunt10 SevTaunt11 SevTaunt12 SevTaunt13 SevTaunt14 SevTaunt15 SevTaunt16 SevTaunt17 SevTaunt18 SevTaunt19 SevTaunt20 SevTaunt21 SevTaunt22 SevTaunt23 SevTaunt24 SevTaunt25 SevTaunt26 SevTaunt27 }

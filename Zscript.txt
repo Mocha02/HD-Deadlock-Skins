@@ -1,0 +1,17 @@
+// Seven
+
+class Seven:HDSkin{
+	default{
+		hdskin.tauntsound "SevTaunts";
+		hdskin.xdeathsound "SevXDeath";
+		hdskin.gruntsound "SevGrunts";
+		hdskin.landsound "player/hdguy/land";
+		hdskin.medsound "SevPains";
+		hdskin.stepsound "humanoid/step";
+		hdskin.stepsoundwet "humanoid/squishstep";
+		hdskin.soundclass "Sev";
+		deathsound "SevDeaths";
+		painsound "SevPains";
+		hdskin.mug "STC";
+	}
+}
