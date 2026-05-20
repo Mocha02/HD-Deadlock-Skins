@@ -59,5 +59,72 @@ SevTaunt27		"Sounds/Seven/Taunts/SevTaunt27.mp3"
 
 $random SevGrunts { SevGrunt1 SevGrunt2 SevGrunt3 SevGrunt4 SevGrunt1 SevGrunt5 }
 $random SevPains { SevPain1 SevPain2 SevPain3 SevPain4 SevPain5 SevPain6 SevPain7 SevPain8 SevPain9 SevPain10 SevPain11 SevPain12 }
-$random SevDeaths {SevDeath1 SevDeath2 SevDeath3 SevDeath4 SevDeath5 SevDeath6 SevDeath7 }
+$random SevDeaths { SevDeath1 SevDeath2 SevDeath3 SevDeath4 SevDeath5 SevDeath6 SevDeath7 }
 $random SevTaunts { SevTaunt1 SevTaunt2 SevTaunt3 SevTaunt4 SevTaunt5 SevTaunt6 SevTaunt7 SevTaunt8 SevTaunt9 SevTaunt10 SevTaunt11 SevTaunt12 SevTaunt13 SevTaunt14 SevTaunt15 SevTaunt16 SevTaunt17 SevTaunt18 SevTaunt19 SevTaunt20 SevTaunt21 SevTaunt22 SevTaunt23 SevTaunt24 SevTaunt25 SevTaunt26 SevTaunt27 }
+
+
+// Drifter
+
+DrifGrunt1		"Sounds/Drifter/Pain/DrifGrunt1.mp3"
+DrifGrunt2		"Sounds/Drifter/Pain/DrifGrunt2.mp3"
+DrifGrunt3		"Sounds/Drifter/Pain/DrifGrunt3.mp3"
+DrifGrunt4		"Sounds/Drifter/Pain/DrifGrunt4.mp3"
+DrifGrunt5		"Sounds/Drifter/Pain/DrifGrunt5.mp3"
+DrifGrunt6		"Sounds/Drifter/Pain/DrifGrunt6.mp3"
+DrifGrunt7		"Sounds/Drifter/Pain/DrifGrunt7.mp3"
+DrifPain1		"Sounds/Drifter/Pain/DrifPain1.mp3"
+DrifPain2		"Sounds/Drifter/Pain/DrifPain2.mp3"
+DrifPain3		"Sounds/Drifter/Pain/DrifPain3.mp3"
+DrifPain4		"Sounds/Drifter/Pain/DrifPain4.mp3"
+DrifPain5		"Sounds/Drifter/Pain/DrifPain5.mp3"
+DrifPain6		"Sounds/Drifter/Pain/DrifPain6.mp3"
+DrifPain7		"Sounds/Drifter/Pain/DrifPain7.mp3"
+DrifDeath1		"Sounds/Drifter/Death/DrifDeath1.mp3"
+DrifDeath2		"Sounds/Drifter/Death/DrifDeath2.mp3"
+DrifDeath3		"Sounds/Drifter/Death/DrifDeath3.mp3"
+DrifDeath4		"Sounds/Drifter/Death/DrifDeath4.mp3"
+DrifDeath5		"Sounds/Drifter/Death/DrifDeath5.mp3"
+DrifXDeath1		"Sounds/Drifter/Death/DrifXDeath1.mp3"
+DrifXDeath2		"Sounds/Drifter/Death/DrifXDeath2.mp3"
+DrifTaunt1		"Sounds/Drifter/Taunts/DrifTaunt1.mp3"
+DrifTaunt2		"Sounds/Drifter/Taunts/DrifTaunt2.mp3"
+DrifTaunt3		"Sounds/Drifter/Taunts/DrifTaunt3.mp3"
+DrifTaunt4		"Sounds/Drifter/Taunts/DrifTaunt4.mp3"
+DrifTaunt5		"Sounds/Drifter/Taunts/DrifTaunt5.mp3"
+DrifTaunt6		"Sounds/Drifter/Taunts/DrifTaunt6.mp3"
+DrifTaunt7		"Sounds/Drifter/Taunts/DrifTaunt7.mp3"
+DrifTaunt8		"Sounds/Drifter/Taunts/DrifTaunt8.mp3"
+DrifTaunt9		"Sounds/Drifter/Taunts/DrifTaunt9.mp3"
+DrifTaunt10		"Sounds/Drifter/Taunts/DrifTaunt10.mp3"
+DrifTaunt11		"Sounds/Drifter/Taunts/DrifTaunt11.mp3"
+DrifTaunt12		"Sounds/Drifter/Taunts/DrifTaunt12.mp3"
+DrifTaunt13		"Sounds/Drifter/Taunts/DrifTaunt13.mp3"
+DrifTaunt14		"Sounds/Drifter/Taunts/DrifTaunt14.mp3"
+DrifTaunt15		"Sounds/Drifter/Taunts/DrifTaunt15.mp3"
+DrifTaunt16		"Sounds/Drifter/Taunts/DrifTaunt16.mp3"
+DrifTaunt17		"Sounds/Drifter/Taunts/DrifTaunt17.mp3"
+DrifTaunt18		"Sounds/Drifter/Taunts/DrifTaunt18.mp3"
+DrifTaunt19		"Sounds/Drifter/Taunts/DrifTaunt19.mp3"
+DrifTaunt20		"Sounds/Drifter/Taunts/DrifTaunt20.mp3"
+DrifTaunt21		"Sounds/Drifter/Taunts/DrifTaunt21.mp3"
+DrifTaunt22		"Sounds/Drifter/Taunts/DrifTaunt22.mp3"
+DrifTaunt23		"Sounds/Drifter/Taunts/DrifTaunt23.mp3"
+DrifTaunt24		"Sounds/Drifter/Taunts/DrifTaunt24.mp3"
+DrifTaunt25		"Sounds/Drifter/Taunts/DrifTaunt25.mp3"
+DrifTaunt26		"Sounds/Drifter/Taunts/DrifTaunt26.mp3"
+DrifTaunt27		"Sounds/Drifter/Taunts/DrifTaunt27.mp3"
+DrifTaunt28		"Sounds/Drifter/Taunts/DrifTaunt28.mp3"
+DrifTaunt29		"Sounds/Drifter/Taunts/DrifTaunt29.mp3"
+DrifTaunt30		"Sounds/Drifter/Taunts/DrifTaunt30.mp3"
+DrifTaunt31		"Sounds/Drifter/Taunts/DrifTaunt31.mp3"
+DrifTaunt32		"Sounds/Drifter/Taunts/DrifTaunt32.mp3"
+DrifTaunt33		"Sounds/Drifter/Taunts/DrifTaunt33.mp3"
+DrifTaunt34		"Sounds/Drifter/Taunts/DrifTaunt34.mp3"
+DrifTaunt35		"Sounds/Drifter/Taunts/DrifTaunt35.mp3"
+DrifTaunt36		"Sounds/Drifter/Taunts/DrifTaunt36.mp3"
+
+$random DrifGrunts { DrifGrunt1 DrifGrunt2 DrifGrunt3 DrifGrunt4 DrifGrunt1 DrifGrunt5 DrifGrunt6 DrifGrunt7 }
+$random DrifPains { DrifPain1 DrifPain2 DrifPain3 DrifPain4 DrifPain5 DrifPain6 }
+$random DrifDeaths { DrifDeath1 DrifDeath2 DrifDeath3 DrifDeath4 }
+$random DrifXDeaths { DrifXDeath1 DrifXDeath2 }
+$random DrifTaunts { DrifTaunt1 DrifTaunt2 DrifTaunt3 DrifTaunt4 DrifTaunt5 DrifTaunt6 DrifTaunt7 DrifTaunt8 DrifTaunt9 DrifTaunt10 DrifTaunt11 DrifTaunt12 DrifTaunt13 DrifTaunt14 DrifTaunt15 DrifTaunt16 DrifTaunt17 DrifTaunt18 DrifTaunt19 DrifTaunt20 DrifTaunt21 DrifTaunt22 DrifTaunt23 DrifTaunt24 DrifTaunt25 DrifTaunt26 DrifTaunt27 DrifTaunt28 DrifTaunt29 DrifTaunt30 DrifTaunt31 DrifTaunt32 DrifTaunt33 DrifTaunt34 DrifTaunt35 DrifTaunt36 }

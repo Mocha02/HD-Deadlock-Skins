@@ -15,3 +15,22 @@ class Seven:HDSkin{
 		hdskin.mug "STC";
 	}
 }
+
+
+// Drifter
+
+class Drifter:HDSkin{
+	default{
+		hdskin.tauntsound "DrifTaunts";
+		hdskin.xdeathsound "DrifXDeaths";
+		hdskin.gruntsound "DrifGrunts";
+		hdskin.landsound "player/hdguy/land";
+		hdskin.medsound "DrifPains";
+		hdskin.stepsound "humanoid/step";
+		hdskin.stepsoundwet "humanoid/squishstep";
+		hdskin.soundclass "Drif";
+		deathsound "DrifDeaths";
+		painsound "DrifPains";
+		hdskin.mug "STF";
+	}
+}
