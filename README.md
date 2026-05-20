@@ -1,6 +1,6 @@
 # HD-Deadlock-Skins
 
-Currently contains audio for Seven. Drifter is planned
+Currently contains audio for Seven and Drifter.
 
 A collection of (currently) audio only skins of characters from Valve's new up and coming game Deadlock. 
 
