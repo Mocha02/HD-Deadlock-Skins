@@ -1,6 +1,6 @@
 # HD-Deadlock-Skins
 
-Currently contains audio for Seven and Drifter.
+Currently contains audio for Seven, Drifter, Venator, and Paradox.
 
 A collection of (currently) audio only skins of characters from Valve's new up and coming game Deadlock. 
 
