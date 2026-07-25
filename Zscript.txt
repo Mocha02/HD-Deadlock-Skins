@@ -34,3 +34,41 @@ class Drifter:HDSkin{
 		hdskin.mug "STF";
 	}
 }
+
+
+// Venator
+
+class Venator:HDSkin{
+	default{
+		hdskin.tauntsound "VenTaunts";
+		hdskin.xdeathsound "VenDeaths";
+		hdskin.gruntsound "VenGrunts";
+		hdskin.landsound "player/hdguy/land";
+		hdskin.medsound "VenPains";
+		hdskin.stepsound "humanoid/step";
+		hdskin.stepsoundwet "humanoid/squishstep";
+		hdskin.soundclass "Ven";
+		deathsound "VenDeaths";
+		painsound "VenPains";
+		hdskin.mug "STF";
+	}
+}
+
+
+// Paradox
+
+class Paradox:HDSkin{
+	default{
+		hdskin.tauntsound "ParaTaunts";
+		hdskin.xdeathsound "ParaDeaths";
+		hdskin.gruntsound "ParaGrunts";
+		hdskin.landsound "player/hdguy/land";
+		hdskin.medsound "ParaPains";
+		hdskin.stepsound "humanoid/step";
+		hdskin.stepsoundwet "humanoid/squishstep";
+		hdskin.soundclass "Para";
+		deathsound "ParaDeaths";
+		painsound "ParaPains";
+		hdskin.mug "STC";
+	}
+}
