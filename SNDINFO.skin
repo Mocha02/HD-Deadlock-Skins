@@ -1,10 +1,10 @@
 // Seven
 
-SevGrunt1		"Sounds/Seven/Pain/SevGrunt1.mp3"
-SevGrunt2		"Sounds/Seven/Pain/SevGrunt2.mp3"
-SevGrunt3		"Sounds/Seven/Pain/SevGrunt3.mp3"
-SevGrunt4		"Sounds/Seven/Pain/SevGrunt4.mp3"
-SevGrunt5		"Sounds/Seven/Pain/SevGrunt5.mp3"
+SevGrunt1		"Sounds/Seven/Grunts/SevGrunt1.mp3"
+SevGrunt2		"Sounds/Seven/Grunts/SevGrunt2.mp3"
+SevGrunt3		"Sounds/Seven/Grunts/SevGrunt3.mp3"
+SevGrunt4		"Sounds/Seven/Grunts/SevGrunt4.mp3"
+SevGrunt5		"Sounds/Seven/Grunts/SevGrunt5.mp3"
 SevPain1		"Sounds/Seven/Pain/SevPain1.mp3"
 SevPain2		"Sounds/Seven/Pain/SevPain2.mp3"
 SevPain3		"Sounds/Seven/Pain/SevPain3.mp3"
@@ -65,13 +65,13 @@ $random SevTaunts { SevTaunt1 SevTaunt2 SevTaunt3 SevTaunt4 SevTaunt5 SevTaunt6 
 
 // Drifter
 
-DrifGrunt1		"Sounds/Drifter/Pain/DrifGrunt1.mp3"
-DrifGrunt2		"Sounds/Drifter/Pain/DrifGrunt2.mp3"
-DrifGrunt3		"Sounds/Drifter/Pain/DrifGrunt3.mp3"
-DrifGrunt4		"Sounds/Drifter/Pain/DrifGrunt4.mp3"
-DrifGrunt5		"Sounds/Drifter/Pain/DrifGrunt5.mp3"
-DrifGrunt6		"Sounds/Drifter/Pain/DrifGrunt6.mp3"
-DrifGrunt7		"Sounds/Drifter/Pain/DrifGrunt7.mp3"
+DrifGrunt1		"Sounds/Drifter/Grunts/DrifGrunt1.mp3"
+DrifGrunt2		"Sounds/Drifter/Grunts/DrifGrunt2.mp3"
+DrifGrunt3		"Sounds/Drifter/Grunts/DrifGrunt3.mp3"
+DrifGrunt4		"Sounds/Drifter/Grunts/DrifGrunt4.mp3"
+DrifGrunt5		"Sounds/Drifter/Grunts/DrifGrunt5.mp3"
+DrifGrunt6		"Sounds/Drifter/Grunts/DrifGrunt6.mp3"
+DrifGrunt7		"Sounds/Drifter/Grunts/DrifGrunt7.mp3"
 DrifPain1		"Sounds/Drifter/Pain/DrifPain1.mp3"
 DrifPain2		"Sounds/Drifter/Pain/DrifPain2.mp3"
 DrifPain3		"Sounds/Drifter/Pain/DrifPain3.mp3"
@@ -131,13 +131,17 @@ $random DrifTaunts { DrifTaunt1 DrifTaunt2 DrifTaunt3 DrifTaunt4 DrifTaunt5 Drif
 
 // Venator
 
-VenGrunt1		"Sounds/Venator/Pain/VenGrunt1.mp3"
-VenGrunt2		"Sounds/Venator/Pain/VenGrunt2.mp3"
-VenGrunt3		"Sounds/Venator/Pain/VenGrunt3.mp3"
-VenGrunt4		"Sounds/Venator/Pain/VenGrunt4.mp3"
-VenGrunt5		"Sounds/Venator/Pain/VenGrunt5.mp3"
-VenGrunt6		"Sounds/Venator/Pain/VenGrunt6.mp3"
-VenGrunt7		"Sounds/Venator/Pain/VenGrunt7.mp3"
+VenGrunt1		"Sounds/Venator/Grunts/VenGrunt1.mp3"
+VenGrunt2		"Sounds/Venator/Grunts/VenGrunt2.mp3"
+VenGrunt3		"Sounds/Venator/Grunts/VenGrunt3.mp3"
+VenGrunt4		"Sounds/Venator/Grunts/VenGrunt4.mp3"
+VenGrunt5		"Sounds/Venator/Grunts/VenGrunt5.mp3"
+VenGrunt6		"Sounds/Venator/Grunts/VenGrunt6.mp3"
+VenGrunt7		"Sounds/Venator/Grunts/VenGrunt7.mp3"
+VenGrunt8		"Sounds/Venator/Grunts/VenGrunt8.mp3"
+VenGrunt9		"Sounds/Venator/Grunts/VenGrunt9.mp3"
+VenGrunt10		"Sounds/Venator/Grunts/VenGrunt10.mp3"
+VenGrunt11		"Sounds/Venator/Grunts/VenGrunt11.mp3"
 VenPain1		"Sounds/Venator/Pain/VenPain1.mp3"
 VenPain2		"Sounds/Venator/Pain/VenPain2.mp3"
 VenPain3		"Sounds/Venator/Pain/VenPain3.mp3"
@@ -184,20 +188,24 @@ VenTaunt30		"Sounds/Venator/Taunts/VenTaunt30.mp3"
 VenTaunt31		"Sounds/Venator/Taunts/VenTaunt31.mp3"
 VenTaunt32		"Sounds/Venator/Taunts/VenTaunt32.mp3"
 VenTaunt33		"Sounds/Venator/Taunts/VenTaunt33.mp3"
+VenTaunt34		"Sounds/Venator/Taunts/VenTaunt34.mp3"
+VenTaunt35		"Sounds/Venator/Taunts/VenTaunt35.mp3"
+VenTaunt36		"Sounds/Venator/Taunts/VenTaunt36.mp3"
+VenTaunt36		"Sounds/Venator/Taunts/VenTaunt37.mp3"
 
-$random VenGrunts { VenGrunt1 VenGrunt2 VenGrunt3 VenGrunt4 VenGrunt1 VenGrunt5 VenGrunt6 VenGrunt7 }
+$random VenGrunts { VenGrunt1 VenGrunt2 VenGrunt3 VenGrunt4 VenGrunt1 VenGrunt5 VenGrunt6 VenGrunt7 VenGrunt8 VenGrunt9 VenGrunt10 VenGrunt11 }
 $random VenPains { VenPain1 VenPain2 VenPain3 VenPain4 VenPain5 VenPain6 VenPain7 }
 $random VenDeaths { VenDeath1 VenDeath2 VenDeath3 VenDeath4 VenDeath5 VenDeath6 }
-$random VenTaunts { VenTaunt1 VenTaunt2 VenTaunt3 VenTaunt4 VenTaunt5 VenTaunt6 VenTaunt7 VenTaunt8 VenTaunt9 VenTaunt10 VenTaunt11 VenTaunt12 VenTaunt13 VenTaunt14 VenTaunt15 VenTaunt16 VenTaunt17 VenTaunt18 VenTaunt19 VenTaunt20 VenTaunt21 VenTaunt22 VenTaunt23 VenTaunt24 VenTaunt25 VenTaunt26 VenTaunt27 VenTaunt28 VenTaunt29 VenTaunt30 VenTaunt31 VenTaunt32 VenTaunt33 }
+$random VenTaunts { VenTaunt1 VenTaunt2 VenTaunt3 VenTaunt4 VenTaunt5 VenTaunt6 VenTaunt7 VenTaunt8 VenTaunt9 VenTaunt10 VenTaunt11 VenTaunt12 VenTaunt13 VenTaunt14 VenTaunt15 VenTaunt16 VenTaunt17 VenTaunt18 VenTaunt19 VenTaunt20 VenTaunt21 VenTaunt22 VenTaunt23 VenTaunt24 VenTaunt25 VenTaunt26 VenTaunt27 VenTaunt28 VenTaunt29 VenTaunt30 VenTaunt31 VenTaunt32 VenTaunt33 VenTaunt34 VenTaunt35 VenTaunt36 VenTaunt37 }
 
 // Paradox
 
-ParaGrunt1		"Sounds/Paradox/Pain/ParaGrunt1.mp3"
-ParaGrunt2		"Sounds/Paradox/Pain/ParaGrunt2.mp3"
-ParaGrunt3		"Sounds/Paradox/Pain/ParaGrunt3.mp3"
-ParaGrunt4		"Sounds/Paradox/Pain/ParaGrunt4.mp3"
-ParaGrunt5		"Sounds/Paradox/Pain/ParaGrunt5.mp3"
-ParaGrunt6		"Sounds/Paradox/Pain/ParaGrunt6.mp3"
+ParaGrunt1		"Sounds/Paradox/Grunts/ParaGrunt1.mp3"
+ParaGrunt2		"Sounds/Paradox/Grunts/ParaGrunt2.mp3"
+ParaGrunt3		"Sounds/Paradox/Grunts/ParaGrunt3.mp3"
+ParaGrunt4		"Sounds/Paradox/Grunts/ParaGrunt4.mp3"
+ParaGrunt5		"Sounds/Paradox/Grunts/ParaGrunt5.mp3"
+ParaGrunt6		"Sounds/Paradox/Grunts/ParaGrunt6.mp3"
 ParaPain1		"Sounds/Paradox/Pain/ParaPain1.mp3"
 ParaPain2		"Sounds/Paradox/Pain/ParaPain2.mp3"
 ParaPain3		"Sounds/Paradox/Pain/ParaPain3.mp3"
